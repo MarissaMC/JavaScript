@@ -1,0 +1,591 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE gallery SYSTEM "gallery.dtd">
+<?xml-stylesheet type="text/xsl" href="xml_gal.xml"?>
+
+<gallery>
+
+<galleryName><![CDATA[High School Friends After High School Graduation]]></galleryName>
+<folderName><![CDATA[high_school_friends]]></folderName>
+
+<images>
+
+<image>
+<filename>img_0889.jpg</filename>
+<title><![CDATA[High School Friends at Penang]]></title>
+<description><![CDATA[Caitlin and Sonali visited Kris at Harvard from home.  Kris is trying to be like Enrique Iglesias and I'm looking dumb trying to smile.]]></description>
+<people>
+<personID>smondkar</personID>
+<personID>pgbovine</personID>
+<personID>cgomez</personID>
+<personID>ktrujillo</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT sophomore year]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[restaurant]]></keyword>
+</keywords>
+<date>
+<month>9</month>
+<year>2002</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_0898.jpg</filename>
+<title><![CDATA[Pile-Up at Harvard]]></title>
+<description><![CDATA[Caitlin and Sonali visited Kris at Harvard from home.  Whose idea was this for a pose?]]></description>
+<people>
+<personID>ktrujillo</personID>
+<personID>smondkar</personID>
+<personID>cgomez</personID>
+<personID>pgbovine</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT sophomore year]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+</keywords>
+<date>
+<month>9</month>
+<year>2002</year>
+</date>
+<physical>
+<width>600</width>
+<height>800</height>
+</physical>
+</image>
+
+<image>
+<filename>img_1340.jpg</filename>
+<title><![CDATA[Tim's House]]></title>
+<description><![CDATA[Impromptu party at Tim Perram's house during winter break.  Check out the headband action.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>ktrujillo</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT sophomore year]]></keyword>
+<keyword><![CDATA[party]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+</keywords>
+<date>
+<month>12</month>
+<year>2002</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_1330.jpg</filename>
+<title><![CDATA[Kelly Osbourne Wannabe at In & Out]]></title>
+<description><![CDATA[Tim & Jeff posing with Kelly Osbourne wannabe at In & Out and some kid flipping them off.]]></description>
+<people>
+<personID>jlouie</personID>
+<personID>tperram</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT sophomore year]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[In & Out]]></keyword>
+</keywords>
+<date>
+<month>12</month>
+<year>2002</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_1336.jpg</filename>
+<title><![CDATA[Impromptu Party at Tim's House]]></title>
+<description><![CDATA[Robin flipping me the bird while the boys look polite.]]></description>
+<people>
+<personID>ksullivan</personID>
+<personID>rdowds</personID>
+<personID>kcockrell</personID>
+</people>
+<keywords>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[MIT sophomore year]]></keyword>
+<keyword><![CDATA[party]]></keyword>
+</keywords>
+<date>
+<month>12</month>
+<year>2002</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_0003.jpg</filename>
+<title><![CDATA[Fruity Cooks]]></title>
+<description><![CDATA[Tim & Kevin cooking in their San Diego apartment.]]></description>
+<people>
+<personID>kcockrell</personID>
+<personID>tperram</personID>
+</people>
+<keywords>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+</keywords>
+<date>
+<month>7</month>
+<year>2003</year>
+</date>
+<physical>
+<width>600</width>
+<height>800</height>
+</physical>
+</image>
+
+<image>
+<filename>img_0005.jpg</filename>
+<title><![CDATA[San Diego Apartment]]></title>
+<description><![CDATA[Tim, Kevin, and I in their San Diego apartment during my summer weekend visit.]]></description>
+<people>
+<personID>tperram</personID>
+<personID>pgbovine</personID>
+<personID>kcockrell</personID>
+</people>
+<keywords>
+<keyword><![CDATA[summer]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+</keywords>
+<date>
+<month>7</month>
+<year>2003</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_0010.jpg</filename>
+<title><![CDATA[Old Friends Reunite]]></title>
+<description><![CDATA[Me posing with Kevin, Chris, and Tim outside their San Diego apartment.]]></description>
+<people>
+<personID>kcockrell</personID>
+<personID>cford</personID>
+<personID>tperram</personID>
+<personID>pgbovine</personID>
+</people>
+<keywords>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+</keywords>
+<date>
+<month>7</month>
+<year>2003</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_0011.jpg</filename>
+<title><![CDATA[Headlock Action]]></title>
+<description><![CDATA[Chris putting his roommates in a headlock while I knee Kevin in the chest outside their San Diego apartment.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>tperram</personID>
+<personID>kcockrell</personID>
+<personID>cford</personID>
+</people>
+<keywords>
+<keyword><![CDATA[summer]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+</keywords>
+<date>
+<month>7</month>
+<year>2003</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_0446.jpg</filename>
+<title><![CDATA[In & Out Reunion]]></title>
+<description><![CDATA[Kevin and I at In & Out, many years after we used to go there as a ritual to take pictures of weird-looking people.]]></description>
+<people>
+<personID>kcockrell</personID>
+<personID>pgbovine</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT junior year]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[In & Out]]></keyword>
+</keywords>
+<date>
+<month>1</month>
+<year>2004</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_0453.jpg</filename>
+<title><![CDATA[Kris's 21st Birthday]]></title>
+<description><![CDATA[At Miyagi's, this super-expensive Japanese restaurant in Hollywood.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>jlee</personID>
+<personID>smondkar</personID>
+<personID>ktrujillo</personID>
+</people>
+<keywords>
+<keyword><![CDATA[group photo]]></keyword>
+<keyword><![CDATA[MIT junior year]]></keyword>
+<keyword><![CDATA[birthday]]></keyword>
+<keyword><![CDATA[restaurant]]></keyword>
+</keywords>
+<date>
+<month>1</month>
+<year>2004</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_0566.jpg</filename>
+<title><![CDATA[Harvard's Valentine's Day Party]]></title>
+<description><![CDATA[Kris and me posing in his suite.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>ktrujillo</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT junior year]]></keyword>
+<keyword><![CDATA[party]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+</keywords>
+<date>
+<month>2</month>
+<year>2004</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_2348.jpg</filename>
+<title><![CDATA[Agoura High Mini-Reunion]]></title>
+<description><![CDATA[Jay, Laura, Kris, and me at Harvard Square in a mini-reunion.]]></description>
+<people>
+<personID>ktrujillo</personID>
+<personID>ljakosky</personID>
+<personID>pgbovine</personID>
+<personID>paxon</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT senior year]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+</keywords>
+<date>
+<month>11</month>
+<year>2004</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_2353.jpg</filename>
+<title><![CDATA[Mini-Reunion Dinner]]></title>
+<description><![CDATA[Jay, Laura, Kris, and me eating dinner at Grendel's Den during our Agoura High mini-reunion.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>ljakosky</personID>
+<personID>paxon</personID>
+<personID>ktrujillo</personID>
+</people>
+<keywords>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[MIT senior year]]></keyword>
+<keyword><![CDATA[restaurant]]></keyword>
+</keywords>
+<date>
+<month>11</month>
+<year>2004</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>img_2354.jpg</filename>
+<title><![CDATA[Agoura High Eiffel Tower]]></title>
+<description><![CDATA[Laura and me proudly eiffel towering Jay at Finale's dessert place after dinner.]]></description>
+<people>
+<personID>paxon</personID>
+<personID>ljakosky</personID>
+<personID>pgbovine</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT senior year]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[eiffel tower]]></keyword>
+<keyword><![CDATA[restaurant]]></keyword>
+</keywords>
+<date>
+<month>11</month>
+<year>2004</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_0174.jpg</filename>
+<title><![CDATA[Barnes and Noble mini-reunion]]></title>
+<description><![CDATA[Stefani, Zahra, and me chat at Barnes and Noble during the summer]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>stefani</personID>
+<personID>zahrat</personID>
+</people>
+<keywords>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+</keywords>
+<date>
+<month>6</month>
+<year>2005</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_0183.jpg</filename>
+<title><![CDATA[Laura and me at Barnes and Noble]]></title>
+<description><![CDATA[during the summer.  I think that nobody goes to the Westlake Barnes and Noble to actually read books.  It's just a good place to hang out and run into people.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>ljakosky</personID>
+</people>
+<keywords>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+</keywords>
+<date>
+<month>6</month>
+<year>2005</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_1497.JPG</filename>
+<title><![CDATA[4 classes of Agoura High at MIT]]></title>
+<description><![CDATA[Agoura High graduates (in order of class year) - me (2001), Derek (2002), Peter (2004), and Ellis (2005) - stand in front of the MIT Stata Center when Derek came to visit at the end of the summer]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>dchang</personID>
+<personID>peterlai</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+<keyword><![CDATA[group photo]]></keyword>
+</keywords>
+<date>
+<month>9</month>
+<year>2005</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_1498.JPG</filename>
+<title><![CDATA[Chen and men at Harvard]]></title>
+<description><![CDATA[Chen was cool so she came along with me to entertain Derek and his Caltech friends around Boston.  Here we stand in front of the statue of John Harvard in the Harvard Yard, a favorite among tourists.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>dchang</personID>
+<personID>chenx05</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+<keyword><![CDATA[group photo]]></keyword>
+</keywords>
+<date>
+<month>9</month>
+<year>2005</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_1500.JPG</filename>
+<title><![CDATA[Caltech vs. MIT]]></title>
+<description><![CDATA[Derek's Caltech buddies go out with Chen and me to dinner at Spice at the end of the summer.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>dchang</personID>
+<personID>chenx05</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+<keyword><![CDATA[restaurant]]></keyword>
+<keyword><![CDATA[group photo]]></keyword>
+</keywords>
+<date>
+<month>9</month>
+<year>2005</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_1517.JPG</filename>
+<title><![CDATA[Surprise encounter in Harvard Sq.]]></title>
+<description><![CDATA[John Elkin surprised me by announcing that he was in Boston so we went out to dinner.  However, we just randomly ran into Kevin in Harvard Square that night.  Whoa!]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>kcockrell</personID>
+<personID>elkin</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+</keywords>
+<date>
+<month>9</month>
+<year>2005</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_1518.JPG</filename>
+<title><![CDATA[Border Cafe with John Elkin]]></title>
+<description><![CDATA[I hadn't seen John since high school, so I took him out to Border Cafe for some cajun/Mexican food.  John brought a friend, so I did too.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>elkin</personID>
+<personID>xyu</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[summer]]></keyword>
+<keyword><![CDATA[restaurant]]></keyword>
+<keyword><![CDATA[group photo]]></keyword>
+</keywords>
+<date>
+<month>9</month>
+<year>2005</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_1648.JPG</filename>
+<title><![CDATA[The Agoura High boys at Fire & Ice]]></title>
+<description><![CDATA[Old buddies at Fire & Ice for my 22nd birthday.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>kcockrell</personID>
+<personID>ktrujillo</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[restaurant]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[birthday]]></keyword>
+</keywords>
+<date>
+<month>11</month>
+<year>2005</year>
+</date>
+<physical>
+<width>800</width>
+<height>600</height>
+</physical>
+</image>
+
+<image>
+<filename>IMG_1703.JPG</filename>
+<title><![CDATA[Yuppie and working-class man]]></title>
+<description><![CDATA[I'm looking snazzy with my suit and bottle of wine while Kevin sports his wifebeater and beer during a cooking fest in his apartment.]]></description>
+<people>
+<personID>pgbovine</personID>
+<personID>kcockrell</personID>
+</people>
+<keywords>
+<keyword><![CDATA[MIT M.Eng. year]]></keyword>
+<keyword><![CDATA[posing]]></keyword>
+<keyword><![CDATA[cooking]]></keyword>
+<keyword><![CDATA[comical]]></keyword>
+</keywords>
+<date>
+<month>11</month>
+<year>2005</year>
+</date>
+<physical>
+<width>600</width>
+<height>800</height>
+</physical>
+</image>
+
+</images>
+
+</gallery>
